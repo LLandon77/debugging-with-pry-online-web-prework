@@ -1,3 +1,3 @@
-def plus_two(3)
-	3 + 2
+def plus_two(num)
+	num = 3 + 2
 end
